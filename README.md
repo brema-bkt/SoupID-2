@@ -18,7 +18,7 @@ Tidak seperti protokol pinjaman yang lain, Soup Finance adalah pasar keuangan ta
 
 Soup Finance diperkuat oleh Fusion Blockchain, dan bertujuan untuk membawa Pinjaman DeFi menjadi lebih dikenal melalui infrastruktur yang mempermudah interaksinya dengan Protokol Soup Finance, menciptakan komunitas lokal yang berkembang dan interface yang aman dan mudah digunakan.
 
-Dengan Soup Finance Anda Dapat:
+### Dengan Soup Finance Anda Dapat:
 
 * Memperoleh bunga dari aset yang beragam
 * Meminjam token sebagai jaminan
