@@ -2,6 +2,8 @@
 
 Soup Finance menyediakan protokol pinjaman algoritmik untuk meningkatkan nilai aset crypto pengguna. Pengguna akan dengan mudah menyuplai dan meminjam aset dari blockchain publik yang terintegrasi tanpa bridge tambahan.
 
+<figure><img src="../../.gitbook/assets/Soup Finance Testnet UI (1).png" alt=""><figcaption></figcaption></figure>
+
 Platform pasar kredit berfungsi secara sederhana dan kokoh, pengguna dapat mengelola pinjaman mereka dan menentukan posisi mereka dengan mudah dan efisien untuk menghindari likuidasi yang tidak diinginkan.
 
 ### Ringkasan Produk

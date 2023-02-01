@@ -14,7 +14,7 @@ Pada umumnya protokol pinjaman hanya berfokus pada aset disuatu blockchain saja,
 
 Tidak seperti protokol pinjaman yang lain, Soup Finance adalah pasar keuangan tanpa bridge dengan penerapan lintas-rantai serta tokenomic yang berbasis deflasi untuk menjaga nilainya dalam jangka panjang. Pengguna dimudahkan untuk menyuplai dan meminjam aset dari berbagai blockchain yang didukung untuk meningkatkan pemanfaatan modal yang lebih efisien, aman dan bermanfaat.
 
-<figure><img src=".gitbook/assets/Soup Finance Protocol.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SoupFinance.png" alt=""><figcaption></figcaption></figure>
 
 Soup Finance diperkuat oleh Fusion Blockchain, dan bertujuan untuk membawa Pinjaman DeFi menjadi lebih dikenal melalui infrastruktur yang mempermudah interaksinya dengan Protokol Soup Finance, menciptakan komunitas lokal yang berkembang dan interface yang aman dan mudah digunakan.
 
